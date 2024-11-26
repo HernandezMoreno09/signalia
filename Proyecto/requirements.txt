@@ -1,0 +1,6 @@
+gradio
+openai_Whisper
+traslate
+python-dotenv
+elevenlabs
+langdetect
